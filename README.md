@@ -7,19 +7,19 @@
 
 <p align="center">
   <a href="mailto:melanyss@pm.me" target="_blank">
-    <img src="https://img.shields.io/badge/Email-melanyss@pm.me-blueviolet" alt="Email" height="30" width="30">
+    <img src="https://img.shields.io/badge/Email-melanyss@pm.me-blueviolet" alt="Email" height="40" width="auto">
   </a>
   <a href="https://twitter.com/MelanysFT" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-MelanysFT-9cf" alt="Melany's Twitter Profile" height="30" width="30">
+    <img src="https://img.shields.io/badge/Twitter-MelanysFT-9cf" alt="Melany's Twitter Profile" height="40" width="auto">
   </a>
   <a href="https://codepen.io/melanys/" target="_blank">
-    <img src="https://img.shields.io/badge/Codepen-melanys-brown" alt="Melany's Codepen Profile" height="30" width="30">
+    <img src="https://img.shields.io/badge/Codepen-melanys-brown" alt="Melany's Codepen Profile" height="40" width="auto">
   </a>
   <a href="https://www.linkedin.com/in/melanysft/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-melanysft-blue" alt="Melanys's Linkedin Profile" height="30" width="30">
+    <img src="https://img.shields.io/badge/LinkedIn-melanysft-blue" alt="Melanys's Linkedin Profile" height="40" width="auto">
   </a>
   <a href="https://www.freecodecamp.org/melanys" target="_blank">
-    <img src="https://img.shields.io/badge/FreeCodeCamp-melanys-important" alt="Melany's FreeCodeCamp Profile" height="30" width="30">
+    <img src="https://img.shields.io/badge/FreeCodeCamp-melanys-important" alt="Melany's FreeCodeCamp Profile" height="40" width="auto">
   </a>
 </p>
 
