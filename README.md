@@ -1,7 +1,5 @@
-<h2>नमस्ते (Namaste)🙏🏻, I'm Melanys Figueredo!<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>नमस्ते (Namaste)🙏🏻, I'm Melanys Figueredo! 👋 </h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>AI Enthusiast & Front-End Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -43,12 +41,12 @@ const melanys = {
     <img src="https://img.shields.io/badge/FreeCodeCamp-melanys-important" alt="Melany's FreeCodeCamp Profile" height="auto" width="auto">
   </a>
 </p>
+## ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=melanyss.melanyss)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
 ---
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
 
 ## [![Melany's github stats](https://github-readme-stats.vercel.app/api?username=melanyss)](https://github.com/melanyss/github-readme-stats)
 ## [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-## ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=melanyss.melanyss)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
-⭐️ From [@melanyss](https://github.com/melanyss)   👋 
+⭐️ From [@melanyss](https://github.com/melanyss)
