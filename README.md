@@ -1,6 +1,8 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm Melanys Figueredo! 👋 </h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
+[![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=Melanys Figueredo🌈&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
@@ -41,7 +43,8 @@ const melanys = {
     <img src="https://img.shields.io/badge/FreeCodeCamp-melanys-important" alt="Melany's FreeCodeCamp Profile" height="auto" width="auto">
   </a>
 </p>
-## ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=melanyss.melanyss)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+
+## ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=melanyss.melanyss)<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
 ---
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
