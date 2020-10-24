@@ -11,7 +11,7 @@ const melanys = {
     pronouns: "She/Her",
     askMeAbout: ["web dev", "tech", "games"],
     CurrentlyLearning: ["React", "Three.js", "GSAP"]
-    LookingFor: ["A Job as *Front-end Developer"]
+    LookingFor: ["An awesome job as *Front-end Developer*"]
     FunFacts: ["Awesome Bartender 🍹", "Guitarist 🎸", "Basketball Player 🏀"],
     technologies: {
         frontEnd: {
