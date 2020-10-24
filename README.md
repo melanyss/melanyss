@@ -7,17 +7,18 @@
 const melanys = {
     BornIn: "l'Avana, Cuba",
     GrownUpIn: "Bologna, Italy",
-    pronouns: "She" | "Her",
+    pronouns: "She/Her",
     askMeAbout: ["web dev", "tech", "games"],
-    LookingFor: ["A Job as *junior Web Developer"]
+    CurrentlyLearning: ["React", "Three.js", "GSAP"]
+    LookingFor: ["A Job as *Front-end Developer"]
     FunFacts: ["Awesome Bartender 🍹", "Guitarist 🎸", "Basketball Player 🏀"],
     technologies: {
         frontEnd: {
-            js: ["Vue", "React"],
-            css: ["Sass", "Bootstrap", "Pure CSS", "Tailwind CSS"]
+            js: ["JQuery", "React", "Vue"],
+            css: ["Sass", "Bootstrap", "Normalize.css", "Tailwind CSS", "Pure CSS"]
         },
         backEnd: ["Python", "PHP"],
-        databases: ["MySql", "PostgreSQL", "MongoDB"],
+        databases: "MySql",
     }
 };
 ```
