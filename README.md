@@ -1,4 +1,4 @@
-<a target="_blank" href="https://github.com/melanyss"><img src="https://github.com/melanyss/melanyss/blob/main/banner.png"></a>
+<a target="_blank" href="https://github.com/melanyss"> <!-- <img src="https://github.com/melanyss/melanyss/blob/main/banner.png"></a> -->
 
 <div align="center">
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
