@@ -15,8 +15,8 @@ const melanys = {
     FunFacts: ["Awesome Bartender 🍹", "Guitarist 🎸", "Basketball Player 🏀"],
     technologies: {
         frontEnd: {
-            js: ["JQuery", "React", "Vue"],
-            css: ["Sass", "Bootstrap", "Normalize.css", "Tailwind CSS", "Pure CSS"]
+            js: ["JQuery", "Vue", "React"],
+            css: ["Sass", "Bootstrap", "Tailwind CSS", "Pure CSS"]
         },
         backEnd: ["Python", "PHP"],
         databases: "MySql",
