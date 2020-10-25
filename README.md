@@ -10,7 +10,7 @@ const melanys = {
     GrownUpIn: "Bologna, Italy",
     pronouns: "She/Her",
     askMeAbout: ["web dev", "tech", "games"],
-    CurrentlyLearning: ["React", "Three.js", "GSAP"]
+    CurrentlyLearning: ["Vue.js", "Three.js", "GSAP"]
     LookingFor: ["An awesome job as *Front-end Developer*"]
     FunFacts: ["Awesome Bartender 🍹", "Guitarist 🎸", "Basketball Player 🏀"],
     technologies: {
