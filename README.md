@@ -6,9 +6,9 @@
     
 ```javascript
 const melanys = {
-    BornIn: "l'Avana, Cuba",
-    GrownUpIn: "Bologna, Italy",
-    pronouns: "She/Her",
+    BornIn: :cuba: "l'Avana, Cuba",
+    GrownUpIn: :it: "Bologna, Italy",
+    pronouns: :female_sign: "She/Her", :rainbow_flag:
     askMeAbout: ["web dev", "tech", "games"],
     CurrentlyLearning: ["React", "Three.js", "GSAP"]
     LookingFor: ["An awesome job as *Front-end Developer*"]
@@ -27,7 +27,7 @@ const melanys = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <p align="center">
-  <a href="mailto:melanyss@pm.me" target="_blank">
+  <a href="mailto:melanyss@pm.me" target="_blank"> :e-mail:
     <img src="https://img.shields.io/badge/Email-melanyss@pm.me-blueviolet" alt="Email" height="25" width="auto">
   </a>
   <a href="https://twitter.com/MelanysFT" target="_blank">
