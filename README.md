@@ -50,11 +50,12 @@ const melanys = {
     <a href="https://www.freecodecamp.org/melanys" target="_blank">
         <img src="https://api.iconify.design/simple-icons:freecodecamp.svg" alt="freeCodeCamp" width="70px" height="70px" style="img:hover {-webkit-transform: scale(1.1);
   transform: scale(1.1);}">
-    </a></p>
+    </a><br>
+    <a target="_blank" href="https://melanyss.github.io">See my portfolio</a>
+</p>
 
 ## [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
-<a target="_blank" href="https://melanyss.github.io">Portfolio</a>
     
 ⭐️ From [@melanyss](https://github.com/melanyss)
 
