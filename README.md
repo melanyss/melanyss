@@ -25,7 +25,10 @@ const melanys = {
 ```
 ---
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+---
 
+## [![Melany's github stats](https://github-readme-stats.vercel.app/api?username=melanyss)](https://github.com/melanyss/github-readme-stats)
+## ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=melanyss.melanyss)<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 <p align="center">
     <a href="mailto:melanyss@pm.me" target="_blank">
         <img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email" width="40px" height="40px" style="img:hover {-webkit-transform: scale(1.1);
@@ -47,29 +50,6 @@ const melanys = {
         <img src="https://api.iconify.design/simple-icons:freecodecamp.svg" alt="freeCodeCamp" width="40px" height="40px" style="img:hover {-webkit-transform: scale(1.1);
   transform: scale(1.1);}">
     </a>
-    <!--
-  <a href="mailto:melanyss@pm.me" target="_blank">
-    <img src="https://img.shields.io/badge/Email-melanyss@pm.me-blueviolet" alt="Email" height="25" width="auto">
-  </a>
-  <a href="https://twitter.com/MelanysFT" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-MelanysFT-9cf" alt="Melany's Twitter Profile" height="25" width="auto">
-  </a>
-  <a href="https://codepen.io/melanys/" target="_blank">
-    <img src="https://img.shields.io/badge/Codepen-melanys-brown" alt="Melany's Codepen Profile" height="25" width="auto">
-  </a>
-  <a href="https://www.linkedin.com/in/melanysft/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-melanysft-blue" alt="Melanys's Linkedin Profile" height="25" width="auto">
-  </a>
-  <a href="https://www.freecodecamp.org/melanys" target="_blank">
-    <img src="https://img.shields.io/badge/FreeCodeCamp-melanys-important" alt="Melany's FreeCodeCamp Profile" height="25" width="auto">
-  </a> -->
-</p>
----
----
-
-## [![Melany's github stats](https://github-readme-stats.vercel.app/api?username=melanyss)](https://github.com/melanyss/github-readme-stats)
-## ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=melanyss.melanyss)<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
-
 ## [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 ⭐️ From [@melanyss](https://github.com/melanyss)
 
