@@ -29,7 +29,9 @@ const melanys = {
 
 ## [![Melany's github stats](https://github-readme-stats.vercel.app/api?username=melanyss)](https://github.com/melanyss/github-readme-stats)
 ## ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=melanyss.melanyss)<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
----
+
+## [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
 <p align="center">
     <a href="mailto:melanyss@pm.me" target="_blank">
         <img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email" width="70px" height="70px" style="img:hover {-webkit-transform: scale(1.1);
@@ -51,8 +53,7 @@ const melanys = {
         <img src="https://api.iconify.design/simple-icons:freecodecamp.svg" alt="freeCodeCamp" width="70px" height="70px" style="img:hover {-webkit-transform: scale(1.1);
   transform: scale(1.1);}">
     </a>
-    ---
-## [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+    
 ⭐️ From [@melanyss](https://github.com/melanyss)
 
 
