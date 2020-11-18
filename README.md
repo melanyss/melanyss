@@ -1,5 +1,5 @@
-<a target="_blank" href="https://github.com/melanyss"> <!-- <img src="https://github.com/melanyss/melanyss/blob/main/banner.png"></a> -->
-    <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
+<!-- <img src="https://github.com/melanyss/melanyss/blob/main/banner.png"></a> -->
+    <img align='top' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
 
 <div align="center">
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
