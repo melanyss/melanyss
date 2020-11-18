@@ -26,7 +26,6 @@ const melanys = {
     
 
 ## [![Melany's github stats](https://github-readme-stats.vercel.app/api?username=melanyss)](https://github.com/melanyss/github-readme-stats)
-## ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=melanyss.melanyss)<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
@@ -53,6 +52,8 @@ const melanys = {
     </a><br>
     <a target="_blank" href="https://melanyss.github.io">See my portfolio</a>
 </p>
+
+## ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=melanyss.melanyss)<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
 ## [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
