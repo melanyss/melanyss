@@ -28,23 +28,23 @@ const melanys = {
 
 <p align="center">
     <a href="mailto:melanyss@pm.me" target="_blank">
-        <img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email" width="15px" height="15px" style="img:hover {-webkit-transform: scale(1.1);
+        <img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email" width="40px" height="40px" style="img:hover {-webkit-transform: scale(1.1);
   transform: scale(1.1);}">
     </a>
     <a href="https://twitter.com/MelanysFT" target="_blank">
-        <img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="Twitter" width="15px" height="15px" style="img:hover {-webkit-transform: scale(1.1);
+        <img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="Twitter" width="40px" height="40px" style="img:hover {-webkit-transform: scale(1.1);
   transform: scale(1.1);}">
     </a>
     <a href="https://codepen.io/melanys/" target="_blank">
-        <img src="https://img.icons8.com/ios-filled/50/000000/codepen.png" alt="Codepen" width="15px" height="15px" style="img:hover {-webkit-transform: scale(1.1);
+        <img src="https://img.icons8.com/ios-filled/50/000000/codepen.png" alt="Codepen" width="40px" height="40px" style="img:hover {-webkit-transform: scale(1.1);
   transform: scale(1.1);}">
     </a>
     <a href="https://www.linkedin.com/in/melanysft/" target="_blank">
-        <img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Linkedin" width="15px" height="15px" style="img:hover {-webkit-transform: scale(1.1);
+        <img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Linkedin" width="40px" height="40px" style="img:hover {-webkit-transform: scale(1.1);
   transform: scale(1.1);}">
     </a>
     <a href="https://www.freecodecamp.org/melanys" target="_blank">
-        <img src="https://api.iconify.design/simple-icons:freecodecamp.svg" alt="freeCodeCamp" width="15px" height="15px" style="img:hover {-webkit-transform: scale(1.1);
+        <img src="https://api.iconify.design/simple-icons:freecodecamp.svg" alt="freeCodeCamp" width="40px" height="40px" style="img:hover {-webkit-transform: scale(1.1);
   transform: scale(1.1);}">
     </a>
     <!--
