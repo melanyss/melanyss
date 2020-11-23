@@ -1,5 +1,5 @@
 <!-- <img src="https://github.com/melanyss/melanyss/blob/main/banner.png"></a> -->
-<div>
+<div align="center">
     <img align='center' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
     
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -27,6 +27,7 @@ const melanys = {
 ## [![Melany's github stats](https://github-readme-stats.vercel.app/api?username=melanyss)](https://github.com/melanyss/github-readme-stats)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+</div>
 <ul>
     <li><a href="mailto:melanyss@pm.me" target="_blank">Email
       <!--  <img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email" width="70px" height="70px"> -->
