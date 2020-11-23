@@ -46,9 +46,10 @@ const melanys = {
 <a target="_blank" href="https://melanyss.github.io" alt="Portfolio"> Portfolio</a>
 </p>
 
+## ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=melanyss.melanyss)<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+
 ## [![Melany's github stats](https://github-readme-stats.vercel.app/api?username=melanyss)](https://github.com/melanyss/github-readme-stats)
 
-## ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=melanyss.melanyss)<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 <!--
 ## [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 ⭐️ From [@melanyss](https://github.com/melanyss) -->
