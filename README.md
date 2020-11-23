@@ -41,10 +41,10 @@ const melanys = {
 <a href="https://www.freecodecamp.org/melanys" target="_blank">
 <img src="https://api.iconify.design/simple-icons:freecodecamp.svg" alt="freeCodeCamp" width="70px" height="70px">
 </a>
-
-<a target="_blank" href="https://melanyss.github.io" alt="Portfolio">Portfolio</a>
-
-<a target="_blank" href="https://extasius.com" alt="Blog">Blog</a>
+<p>
+<a target="_blank" href="https://extasius.com" alt="Blog">Blog</a> &
+<a target="_blank" href="https://melanyss.github.io" alt="Portfolio"> Portfolio</a>
+</p>
 
 ## [![Melany's github stats](https://github-readme-stats.vercel.app/api?username=melanyss)](https://github.com/melanyss/github-readme-stats)
 
