@@ -26,22 +26,24 @@ const melanys = {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-<a href="mailto:melanyss@pm.me" target="_blank">Email
+<a href="mailto:melanyss@pm.me" target="_blank">
 <img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email" width="70px" height="70px">
 </a>
-<a href="https://twitter.com/MelanysFT" target="_blank">Twitter
+<a href="https://twitter.com/MelanysFT" target="_blank">
 <img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="Twitter" width="70px" height="70px">
 </a>
-<a href="https://www.linkedin.com/in/melanysft/" target="_blank">Linkedin
+<a href="https://www.linkedin.com/in/melanysft/" target="_blank">
 <img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Linkedin" width="70px" height="70px">
 </a>
-<a href="https://codepen.io/melanys/" target="_blank">Codepen
+<a href="https://codepen.io/melanys/" target="_blank">
 <img src="https://img.icons8.com/ios-filled/50/000000/codepen.png" alt="Codepen" width="70px" height="70px">
 </a>
-<a href="https://www.freecodecamp.org/melanys" target="_blank">freeCodeCamp
+<a href="https://www.freecodecamp.org/melanys" target="_blank">
 <img src="https://api.iconify.design/simple-icons:freecodecamp.svg" alt="freeCodeCamp" width="70px" height="70px">
 </a>
+
 <a target="_blank" href="https://melanyss.github.io" alt="Portfolio">Portfolio</a>
+
 <a target="_blank" href="https://extasius.com" alt="Blog">Blog</a>
 
 ## [![Melany's github stats](https://github-readme-stats.vercel.app/api?username=melanyss)](https://github.com/melanyss/github-readme-stats)
