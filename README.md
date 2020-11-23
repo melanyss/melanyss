@@ -28,10 +28,10 @@ const melanys = {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 <ul>
-    <li display="inline"><a href="mailto:melanyss@pm.me" target="_blank">Email
+    <li style="display: inline"><a href="mailto:melanyss@pm.me" target="_blank">Email
       <!--  <img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email" width="70px" height="70px"> -->
     </a></li>
-    <li display="inline"><a href="https://twitter.com/MelanysFT" target="_blank">Twitter
+    <li style="display: inline"><a href="https://twitter.com/MelanysFT" target="_blank">Twitter
     <!--    <img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="Twitter" width="70px" height="70px"> -->
     </a></li>
     <li><a href="https://www.linkedin.com/in/melanysft/" target="_blank">Linkedin
