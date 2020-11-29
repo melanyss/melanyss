@@ -1,4 +1,5 @@
 <div align="center">
+    
 ## [![Melany's github stats](https://github-readme-stats.vercel.app/api?username=melanyss)](https://github.com/melanyss/github-readme-stats)
     
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -44,11 +45,10 @@ const Melanys = {
 <a href="https://extasius.com" alt="Blog">Blog</a> & <a href="https://melanyss.github.io" alt="Portfolio">Portfolio</a>
 </p>
 
-### Like my work, Support me:
-
-<a href="https://www.buymeacoffee.com/melanyss"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=melanyss&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
-
 ## ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=melanyss.melanyss)<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+
+### Like my work, Support me:
+<a href="https://www.buymeacoffee.com/melanyss"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=melanyss&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
 
 </div>
 
