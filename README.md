@@ -1,56 +1,56 @@
-<!-- <img src="https://github.com/melanyss/melanyss/blob/main/banner.png"></a> -->
-<div align="center">
-    <img align='center' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
+## [![Melany's github stats](https://github-readme-stats.vercel.app/api?username=melanyss)](https://github.com/melanyss/github-readme-stats)
+
+## ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=melanyss.melanyss)<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
     
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
     
 ```javascript
-const melanys = {
-    BornIn: "l'Avana, Cuba",
-    GrownUpIn: "Bologna, Italy",
+const Melanys = {
+    From: "Havana, Cuba",
+    basedIn: "Bologna, Italy",
     pronouns: "She/Her",
-    askMeAbout: ["web dev", "tech", "games"],
-    CurrentlyLearning: ["Vue.js", "Three.js", "GSAP"],
-    LookingFor: "A job as Front-end Developer",
+    currentlyLearning: ["Vue.js", "Three.js", "GSAP"],
+    LookingFor: "A job as front-end developer",
     FunFacts: ["Awesome Bartender 🍹", "Guitarist 🎸", "Basketball Player 🏀"],
     technologies: {
         frontEnd: {
             js: ["JQuery", "Vue", "React"],
-            css: ["Sass", "Bootstrap", "Tailwind CSS", "Pure CSS"]
-        },
-        backEnd: ["Python", "PHP"],
-        databases: "MySql",
+            css: ["Sass", "Bootstrap", "Tailwind CSS"]
+        }
+        backEnd: ["PHP", "Wordpress"],
+        databases: ["MySql", "MongoDB"]
     }
 };
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-<a href="mailto:melanyss@pm.me" target="_blank">
+<a href="mailto:melanyss@pm.me">
 <img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email" width="70px" height="70px">
 </a>
-<a href="https://twitter.com/MelanysFT" target="_blank">
+<a href="https://twitter.com/MelanysFT">
 <img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="Twitter" width="70px" height="70px">
 </a>
-<a href="https://www.linkedin.com/in/melanysft/" target="_blank">
+<a href="https://www.linkedin.com/in/melanysft/">
 <img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Linkedin" width="70px" height="70px">
 </a>
-<a href="https://codepen.io/melanys/" target="_blank">
+<a href="https://codepen.io/melanys/">
 <img src="https://img.icons8.com/ios-filled/50/000000/codepen.png" alt="Codepen" width="70px" height="70px">
 </a>
-<a href="https://www.freecodecamp.org/melanys" target="_blank">
+<a href="https://www.freecodecamp.org/melanys">
 <img src="https://api.iconify.design/simple-icons:freecodecamp.svg" alt="freeCodeCamp" width="70px" height="70px">
 </a>
-<p>
-<a target="_blank" href="https://extasius.com" alt="Blog">Blog</a> &
-<a target="_blank" href="https://melanyss.github.io" alt="Portfolio"> Portfolio</a>
-</p>
+<a href="https://extasius.com" alt="Blog">Blog</a>
+<br>
+<a href="https://melanyss.github.io" alt="Portfolio">Portfolio</a>
 
-## ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=melanyss.melanyss)<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+### Like my work, Support me:
 
-## [![Melany's github stats](https://github-readme-stats.vercel.app/api?username=melanyss)](https://github.com/melanyss/github-readme-stats)
+<a href="https://www.buymeacoffee.com/melanyss"><img  width="50" height="50" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=melanyss&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
 
 <!--
-## [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-⭐️ From [@melanyss](https://github.com/melanyss) -->
-</div>
+<img align="center" src="https://github.com/melanyss/melanyss/blob/main/banner.png" alt="">
+<img align="center" src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230" alt="">
+⭐️ From [@melanyss](https://github.com/melanyss)
+-->
