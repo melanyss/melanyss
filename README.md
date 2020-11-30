@@ -6,12 +6,12 @@
     
 ```javascript
 const Melanys = {
-    From: "Cuba",
+    from: "Cuba",
     basedIn: "Italy",
     pronouns: "She/Her",
-    currentlyLearning: ["Vue.js", "PHP", "node.js", "Git"],
-    LookingFor: "A job as front-end developer",
-    FunFacts: ["Awesome Bartender 🍹", "Guitarist 🎸", "Basketball Player 🏀"],
+    learning: ["Vue.js", "PHP", "node.js", "Git"],
+    lookingFor: "A job as front-end developer",
+    funFacts: ["Awesome Bartender 🍹", "Guitarist 🎸", "Basketball Player 🏀"],
     technologies: {
         frontEnd: {
             js: ["JQuery", "Vue", "React"],
