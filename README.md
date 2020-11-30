@@ -1,8 +1,6 @@
 <div align="center">
     
 ## [![Melany's github stats](https://github-readme-stats.vercel.app/api?username=melanyss)](https://github.com/melanyss/github-readme-stats)
-
-## ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=melanyss.melanyss)<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
     
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
     
@@ -50,6 +48,8 @@ const Melanys = {
 ### If you like my work, Support me:
 <a href="https://www.buymeacoffee.com/melanyss"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=melanyss&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a><span></span>
 <a href="https://www.patreon.com/melanys"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111548.svg" width="50px" height="50px" alt="Patreon | Melanys" target="_blank"></a>
+
+## ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=melanyss.melanyss)<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 </div>
 
 <!--
