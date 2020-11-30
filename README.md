@@ -50,6 +50,7 @@ const Melanys = {
 ### If you like my work, Support me:
 <a href="https://www.buymeacoffee.com/melanyss"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=melanyss&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
 
+<a href="https://www.patreon.com/melanys"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111548.svg" width="70px" height="70px" alt="Patreon | Melanys" target="_blank"></a>
 </div>
 
 <!--
