@@ -6,10 +6,10 @@
     
 ```javascript
 const Melanys = {
-    From: "Havana, Cuba",
-    basedIn: "Bologna, Italy",
+    From: "Cuba",
+    basedIn: "Italy",
     pronouns: "She/Her",
-    currentlyLearning: ["Vue.js", "Three.js", "GSAP"],
+    currentlyLearning: ["Vue.js", "PHP", "node.js", "Git"],
     LookingFor: "A job as front-end developer",
     FunFacts: ["Awesome Bartender 🍹", "Guitarist 🎸", "Basketball Player 🏀"],
     technologies: {
