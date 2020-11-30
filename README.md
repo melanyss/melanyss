@@ -27,22 +27,22 @@ const Melanys = {
 <br>
 
 <a href="mailto:melanyss@pm.me">
-<img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email" width="70px" height="70px">
+<img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email" width="50px" height="50px">
 </a>
 <a href="https://twitter.com/MelanysFT">
-<img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="Twitter" width="70px" height="70px">
+<img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="Twitter" width="50px" height="50px">
 </a>
 <a href="https://www.linkedin.com/in/melanysft/">
-<img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Linkedin" width="70px" height="70px">
+<img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Linkedin" width="50px" height="50px">
 </a>
 <a href="https://codepen.io/melanys/">
-<img src="https://img.icons8.com/ios-filled/50/000000/codepen.png" alt="Codepen" width="70px" height="70px">
+<img src="https://img.icons8.com/ios-filled/50/000000/codepen.png" alt="Codepen" width="50px" height="50px">
 </a>
 <a href="https://www.freecodecamp.org/melanys">
-<img src="https://api.iconify.design/simple-icons:freecodecamp.svg" alt="freeCodeCamp" width="70px" height="70px">
+<img src="https://api.iconify.design/simple-icons:freecodecamp.svg" alt="freeCodeCamp" width="50px" height="50px">
 </a><br>
 <p>
-<a href="https://extasius.com" alt="Blog">Blog</a> & <a href="https://melanyss.github.io" alt="Portfolio">Portfolio</a>
+<a href="https://extasius.com" alt="Blog">Blog</a> &amp; <a href="https://melanyss.github.io" alt="Portfolio">Portfolio</a>
 </p>
 
 ### If you like my work, Support me:
