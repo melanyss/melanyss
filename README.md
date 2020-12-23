@@ -16,7 +16,7 @@ const melanys = {
         frontEnd: {
             js: ["JQuery", "Vue", "React"],
             css: ["Sass", "Bootstrap", "Tailwind CSS"]
-        }
+        },
         backEnd: ["PHP", "Wordpress"],
         databases: ["MySql", "MongoDB"]
     }
