@@ -43,6 +43,7 @@ const melanys = {
 <a href="https://www.freecodecamp.org/melanys">
 <img src="https://api.iconify.design/simple-icons:freecodecamp.svg" alt="freeCodeCamp" width="50px" height="50px">
 </a><br>
+   <!-- 
 
 ### If you like my work, Support me:
 <a href="https://www.buymeacoffee.com/melanyss"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=melanyss&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
