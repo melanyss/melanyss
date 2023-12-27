@@ -46,10 +46,11 @@ const melanys = {
 <!-- ## [![Melany's github stats](https://github-readme-stats.vercel.app/api?username=melanyss)](https://github.com/melanyss/github-readme-stats) -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=melanyss&show_icons=true&locale=en" alt="melanyss" /></p>
 
+<!--
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/melanyss"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="melanyss" /></a></p><br>
 
-<!--
+
 github stats: anuraghazra
 <a href="https://melanys.me/">Portfolio</a>
 <a href="https://www.freecodecamp.org/melanys">
