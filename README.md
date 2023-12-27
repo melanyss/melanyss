@@ -35,7 +35,7 @@ const melanys = {
 <a href="https://linkedin.com/in/melanysft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melanysft" height="30" width="40" /></a>
 <a href="https://instagram.com/melanyssss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="melanyssss" height="30" width="40" /></a>
 <a href="https://medium.com/@melanyss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@melanyss" height="30" width="40" /></a>
-<a href="mailto:hello@melanys.me"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="email:hello@melanys.me" height="30" width="40" /></a>
+<!-- <a href="mailto:hello@melanys.me"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="email:hello@melanys.me" height="30" width="40" /></a> -->
 </p>
 
 <!--
