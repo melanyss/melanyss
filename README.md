@@ -1,7 +1,7 @@
 <div align="center">
     
 <h1 align="center">Hi 👋 I'm Melanys</h1>
-<h3 align="center">Self-taught Creative Developery</h3>
+<h3 align="center">Self-taught Creative Developer</h3>
 
 ### ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=melanyss.melanyss)<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
