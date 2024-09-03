@@ -11,7 +11,7 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melanyss)](https://github.com/melanyss/github-readme-stats) -->
 
 
-<img src="assets/gifs/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+<!-- <img src="assets/gifs/life_balance.gif" alt="side Image" align="right" width="200" height="auto" /> -->
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
