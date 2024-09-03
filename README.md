@@ -17,8 +17,8 @@
 ```javascript
 const melanys = {
     pronouns: "She/Her",
-    code: ["JS", "JQuery", "React.js", "Next.js", "Python"],
     languages: ["English", "Italian", "Spanish"],
+    code: ["JS", "JQuery", "React.js", "Next.js", "Python"],
     funFacts: ["Awesome Bartender 🍹", "Guitarist 🎸", "Ex Basketball Player 🏀"]
 };
 ```
