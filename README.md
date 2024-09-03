@@ -2,6 +2,7 @@
     
 <h1 align="center">Hi 👋 I'm Melanys</h1>
 <h3 align="center">Self-taught Creative Developery</h3>
+
 ### ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=melanyss.melanyss)<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melanyss" alt="melanyss" /></a> </p>
